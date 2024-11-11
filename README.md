@@ -1,6 +1,6 @@
 # Angular with Jest
 
-This project shows how to implement Jest framework for Unit Testing instead of using Karma for Angular Apps.
+This project shows how to implement Jest framework for Unit Testing instead of using Karma for Angular Apps. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
 ## Author info :ninja:
 José Luis Olivares 
