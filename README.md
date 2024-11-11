@@ -1,8 +1,8 @@
-# AngularJest
+# Angular with Jest
 
 This project shows how to implement Jest framework for Unit Testing instead of using Karma for Angular Apps.
 
-# Author info :ninja:
+## Author info :ninja:
 José Luis Olivares 
 If you appreciate my effort, please endorse my skills on Linkedin (https://www.linkedin.com/in/jolivaress/) or making a voluntary donation through Paypal https://paypal.me/joolivares 
 
