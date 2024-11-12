@@ -6,6 +6,12 @@ This project shows how to implement Jest framework for Unit Testing instead of u
 José Luis Olivares 
 If you appreciate my effort, please endorse my skills on Linkedin (https://www.linkedin.com/in/jolivaress/)
 
+## :bulb: Read the step by step implementation on this Gist
+
+https://gist.github.com/joseOlivares/8b243a0bc2282f73679dcc74053bd7f5
+
+
+
 ## Running Jest unit tests
 
 Run `npm run test` 
